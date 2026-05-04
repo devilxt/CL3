@@ -1,3 +1,4 @@
+!pip install deap
 import random
 from deap import base, creator, tools
 
